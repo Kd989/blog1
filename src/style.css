@@ -1,0 +1,30 @@
+.nav-scroller .nav {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    padding-bottom: 1rem !important;
+    margin-top: -1px !important;
+    overflow-x: auto !important;
+    text-align: center !important;
+    white-space: nowrap !important;
+    
+}
+.bg-custom{
+    background: grey;
+}
+.content-banner{
+    color: white;
+}
+
+.content-banner-continuereading a{
+    color: white;
+    text-decoration: none;
+}
+.blog-date{
+    color: grey;
+    
+}
+.mark{
+    text-decoration: none;
+    color: blue;
+    background: none;
+}
